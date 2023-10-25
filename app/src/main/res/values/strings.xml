@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP1_DAVAINE</string>
+    <string name="send_sms">Envoi SMS DAVAINE Louis-Amand</string>
+    <string name="enter_number">Entrez le(s) numero(s), séparé(s) par " ; "</string>
+    <string name="enter_message">Tapez le message</string>
+    <string name="send_button">Envoyer</string>
+</resources>
